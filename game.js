@@ -23,7 +23,7 @@ var plot = {
             destination: 'newbuild'
         }
        ],
-       backsound: "stage2.wav"
+       //backsound: "stage2.wav"
        
     },
     emergency:{
